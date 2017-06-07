@@ -1,0 +1,41 @@
+{
+  "name": "aneesh-vsftpd",
+  "version": "1.2.0",
+  "author": "aneesh",
+  "summary": "Puppet module for vsftpd",
+  "license": "Apache-2.0",
+  "source": "https://github.com/aneesh-c/puppet-vsftpd",
+  "project_page": "https://github.com/aneesh-c/puppet-vsftpd",
+  "issues_url": "https://github.com/aneesh-c/puppet-vsftpd/issues",
+  "tags": [
+    "vsftpd",
+    "ftp"
+  ],
+  "operatingsystem_support": [
+    {
+      "operatingsystem": "RedHat",
+      "operatingsystemrelease": [
+        "6",
+        "7"
+      ]
+    },
+    {
+      "operatingsystem": "CentOS",
+      "operatingsystemrelease": [
+        "6",
+        "7"
+      ]
+    },
+    {
+      "operatingsystem": "Ubuntu",
+      "operatingsystemrelease": [
+        "12.04",
+        "14.04",
+        "16.04"
+      ]
+    }
+  ],
+  "dependencies": [
+  
+  ]
+}
